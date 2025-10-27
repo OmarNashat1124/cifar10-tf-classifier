@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+streamlit==1.37.0
+numpy==1.26.4
+pandas==2.2.3
+Pillow==10.4.0
+protobuf==4.25.3
+keras==3.4.1
+h5py==3.11.0
+opt-einsum==3.3.0
+matplotlib==3.10.0
+scikit-learn==1.5.2
